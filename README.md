@@ -14,7 +14,7 @@
 
 ![MySkills](https://skillicons.dev/icons?i=docker,figma,c,cpp,bootstrap,tailwind,fastapi)
 
-# 🔗 Connect with me
+# 🔗 Connect With Me
 - [Portfolio](https://nasserben.com)
 - [LinkedIn](https://www.linkedin.com/in/nasserben/)
 - [Resume](https://d2x99j4e5epq4y.cloudfront.net/NasserBen_Resume.pdf)
