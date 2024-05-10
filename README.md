@@ -17,4 +17,5 @@
 # 🔗 Connect with me
 - [Portfolio](https://nasserben.com)
 - [LinkedIn](https://www.linkedin.com/in/nasserben/)
+- [Resume](https://d2x99j4e5epq4y.cloudfront.net/NasserBen_Resume.pdf)
 - contact@nasserben.com
