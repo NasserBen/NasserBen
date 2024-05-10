@@ -3,6 +3,7 @@
 - 🏫 I am a student at University of California, Riverside.
 - 📚 I am majoring in Computer Science.
 - 👨‍💻 I am a fullstack web developer.
+- 🤝 I am open to job offers.
 - 🔭 I am currently working on [SnapChef](https://snapchefapp.vercel.app).
 - 🌱 I am currently learning React Native, Typescript, SQL, Fast API, and Docker.
 
