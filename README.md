@@ -1,4 +1,4 @@
-# 👋 Hey I'm Nasser (Nah-Sir)!
+# 👋 Hey I'm Nasser (Naw-Sir)!
 
 - 🏫 I am a student at University of California, Riverside.
 - 📚 I am majoring in Computer Science.
