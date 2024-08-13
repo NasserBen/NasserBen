@@ -1,11 +1,10 @@
-# 👋 Hey I'm Nasser (Naw-Sir)!
+# 👋 Hey, I'm Nasser!
 
-- 🏫 I am a student at University of California, Riverside.
-- 📚 I am majoring in Computer Science.
-- 👨‍💻 I am a fullstack web developer.
-- 🤝 I am open to job offers.
-- 🔭 I am currently working on [SnapChef](https://snapchefapp.vercel.app).
-- 🌱 I am currently learning React Native, Typescript, SQL, Fast API, and Docker.
+- 💼 Frontend Developer at [Bryt Designs](https://www.brytdesigns.com/).
+- 👨‍💻 Fullstack web developer.
+- 🔭 Currently working on [SnapChef](https://snapchefapp.vercel.app).
+- 🌱 I am currently learning Remix, Liquid, React Native, Graphql, and MySQL.
+- 🏫 Computer Science graduate from University of California, Riverside.
 
 # 🔨 Tools & Tech
 ![MySkills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs)
@@ -17,5 +16,5 @@
 # 🔗 Connect With Me
 - [Portfolio](https://nasserben.com)
 - [LinkedIn](https://www.linkedin.com/in/nasserben/)
-- [Resume](https://d2x99j4e5epq4y.cloudfront.net/NasserBen_Resume.pdf)
+- [Resume](https://nasserben.com/resume/)
 - contact@nasserben.com
