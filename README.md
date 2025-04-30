@@ -2,9 +2,9 @@
 
 - 💼 Frontend Developer at [Bryt Designs](https://www.brytdesigns.com/).
 - 👨‍💻 Fullstack web developer.
-- 🔭 Currently working on [SnapChef](https://snapchefapp.vercel.app).
-- 🌱 I am currently learning Remix, Liquid, React Native, Graphql, and MySQL.
-- 🏫 Computer Science graduate from University of California, Riverside.
+- 🏫 Pursuing Master's Degree with focus on AI/ML.
+- 🌱 Learning Astro, Svelte, Astro, and Graphql.
+- 🎓 Computer Science graduate from University of California, Riverside.
 
 # 🔨 Tools & Tech
 ![MySkills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs)
