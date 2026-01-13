@@ -3,7 +3,7 @@
 - 💼 AI Fellow at [Handshake](https://www.joinhandshake.com/).
 - 👨‍💻 Fullstack web developer.
 - 🌱 Learning Astro, Svelte, Astro, and Graphql.
-- 🎓 Computer Science Master's Degree graduate from University of California, Riverside.
+- 🎓 Computer Science Master's graduate from University of California, Riverside.
 
 # 🔨 Tools & Tech
 ![MySkills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,nodejs)
